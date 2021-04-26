@@ -5,7 +5,6 @@
 - [Dependencies](#dependencies)
   - [GNU Octave](#gnu_octave)
   - [Packages](#packages)
-  - [Data](#data)
 - [How to Use](#how_to_use)
 - [References](#references)
 
@@ -22,9 +21,6 @@ Ran within GNU Octave
 $ pkg install -forge signal control outliers io struct statistics optim data-smoothing
 $ pkg load signal control outliers io struct statistics optim data-smoothing
 ```
-
-### Data
-Data must be taken from a PPG sensor for 60 seconds.
 
 ## How to Use
 Run within GNU Octave
